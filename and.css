@@ -1,0 +1,42 @@
+
+span{
+    display:flex;
+    justify-content:center;
+    color:brown;
+    font-size:40px;
+    background-color:whitesmoke;
+    border-radius:30px;
+   
+      
+  } 
+  tr{
+    text-align:center;
+  }
+  table {
+    border-collapse: collapse;
+  
+  }
+  .down{
+    display:flex;
+   justify-content:center;
+    width:40%;
+    background-color:whitesmoke;
+   border-radius:14px;
+   
+  }img{
+  padding-left: 30%;
+  }
+  .upup
+  {
+  
+    width:15%;
+    background-color:whitesmoke;
+   border-radius:14px;
+  }
+  .up{
+    background-color:wheat;
+     border-radius:14px;
+    width:10%;
+    height:60px;
+   justify-content:center;
+  }
